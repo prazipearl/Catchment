@@ -2,7 +2,7 @@
 
 A web app that helps homeowners assess rooftop rainwater harvesting potential for their specific roof, and connects them with local vendors who can install the recommended system.
 
-Built in response to Smart India Hackathon problem statement **SIH25065** (Ministry of Jal Shakti) — on-spot assessment of Rooftop Rainwater Harvesting (RTRWH) and Artificial Recharge potential.
+on-spot assessment of Rooftop Rainwater Harvesting (RTRWH) and Artificial Recharge potential.
 
 ## The problem
 
