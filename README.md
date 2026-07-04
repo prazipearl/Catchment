@@ -10,9 +10,9 @@ Rooftop rainwater harvesting is legally mandated in many Indian states, but most
 
 ## Features
 
-- **Rainfall calculator** — enter your roof area and click your location on a map to get a harvesting potential estimate, based on real historical rainfall data
-- **Water allocation breakdown** — see a suggested split of your harvested water across groundwater recharge, irrigation, and indoor use
-- **Assessment history** — past calculations are saved and retrievable
+- Rainfall calculator — enter your roof area and click your location on a map to get a harvesting potential estimate, based on real historical rainfall data
+- Water allocation breakdown — see a suggested split of your harvested water across groundwater recharge, irrigation, and indoor use
+- Assessment history — past calculations are saved and retrievable
 
 ## Tech stack
 
